@@ -1,0 +1,30 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "features": true,
+        "company": "apple"
+    },
+    {
+        "name": "s23ultra",
+        "price": 200,
+        "features": true,
+        "company": "samsung"
+    },
+    {
+        "name": "redmi",
+        "price": 130,
+        "company": "mi"
+    },
+    {
+        "name": "realme",
+        "price": 100,
+        "company": "dell"
+    },
+    {
+        "name": "iphone14",
+        "price": 200,
+        "features": true,
+        "company": "apple"
+    }
+]
